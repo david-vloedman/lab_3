@@ -1,0 +1,24 @@
+h1{
+    font-size: 2em;
+}
+
+
+
+body{
+    background-color: rgb(132, 139, 146);
+    color: rgb(77, 90, 54);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section{
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 15%;
+}
+
+p{
+    text-align: justify;    
+}
+
